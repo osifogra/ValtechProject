@@ -1,6 +1,6 @@
 # ValtechProject
 
-This is a selenium Webdrive page object project written in C# project 
+This is a selenium Webdrive page object project written in C#. 
 
 To run test
 •	You need to have installed Visual studio and have add Specflow
